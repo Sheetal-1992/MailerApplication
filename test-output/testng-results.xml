@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[---Starting Test Execution---]]>
+    </line>
+    <line>
+      <![CDATA[ChromeDriver Launched]]>
+    </line>
+    <line>
+      <![CDATA[testing20201012@yahoo.com have logged in succesfully]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 1 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[1 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 2 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[2 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 3 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[3 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 4 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[4 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 5 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[5 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[testing20201013@yahoo.com have logged in succesfully]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 1 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[1 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 2 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[2 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 3 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[3 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 4 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[4 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 5 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[5 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[testing20201014@yahoo.com have logged in succesfully]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 1 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[1 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 2 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[2 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 3 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[3 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 4 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[4 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 5 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[5 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[testing20201015@yahoo.com have logged in succesfully]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 1 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[1 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 2 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[2 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 3 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[3 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 4 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[4 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[File Attached Succesfully..Sending Mail 5 with Attachment]]>
+    </line>
+    <line>
+      <![CDATA[5 mail sent!]]>
+    </line>
+    <line>
+      <![CDATA[20 mails sent]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-05-05T07:36:47Z" name="Default suite" finished-at="2021-05-05T07:56:05Z" duration-ms="1157925">
+    <groups>
+    </groups>
+    <test started-at="2021-05-05T07:36:47Z" name="Default test" finished-at="2021-05-05T07:56:05Z" duration-ms="1157925">
+      <class name="com.MailerApplication.MailerApplication">
+        <test-method is-config="true" signature="start_test()[pri:0, instance:com.MailerApplication.MailerApplication@3571b748]" started-at="2021-05-05T07:36:47Z" name="start_test" finished-at="2021-05-05T07:36:53Z" duration-ms="5384" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[---Starting Test Execution---]]>
+            </line>
+            <line>
+              <![CDATA[ChromeDriver Launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- start_test -->
+        <test-method signature="send_mail()[pri:0, instance:com.MailerApplication.MailerApplication@3571b748]" started-at="2021-05-05T07:36:53Z" name="send_mail" finished-at="2021-05-05T07:56:02Z" duration-ms="1148947" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[testing20201012@yahoo.com have logged in succesfully]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 1 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[1 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 2 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[2 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 3 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[3 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 4 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[4 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 5 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[5 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[testing20201013@yahoo.com have logged in succesfully]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 1 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[1 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 2 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[2 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 3 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[3 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 4 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[4 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 5 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[5 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[testing20201014@yahoo.com have logged in succesfully]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 1 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[1 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 2 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[2 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 3 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[3 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 4 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[4 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 5 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[5 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[testing20201015@yahoo.com have logged in succesfully]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 1 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[1 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 2 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[2 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 3 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[3 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 4 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[4 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[File Attached Succesfully..Sending Mail 5 with Attachment]]>
+            </line>
+            <line>
+              <![CDATA[5 mail sent!]]>
+            </line>
+            <line>
+              <![CDATA[20 mails sent]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- send_mail -->
+        <test-method is-config="true" signature="end_test()[pri:0, instance:com.MailerApplication.MailerApplication@3571b748]" started-at="2021-05-05T07:56:02Z" name="end_test" finished-at="2021-05-05T07:56:05Z" duration-ms="3558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end_test -->
+      </class> <!-- com.MailerApplication.MailerApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
